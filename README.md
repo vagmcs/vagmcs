@@ -4,7 +4,7 @@ I am a Data Scientist / ML Engineer from Greece 🇬🇷. I'm currently working 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vagmcs&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I'm currently learning **Rust** and **MLflow**.
+- 🌱 I'm currently studying **Deep Learning theory** and a bit of **Rust**.
 
 
 - 💬 Ask me about **Scala**, **Python**, **AI** and **Machine Learning**.
