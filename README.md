@@ -2,7 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vagmcs&label=Profile%20views&color=0e75b6&style=flat)
 
-I am a Data Scientist / ML Researcher from Greece 🇬🇷 living in Switzerland 🇨🇭. I'm currently working for [**Pollfish**](https://www.pollfish.com) building end-to-end machine learning and data services.
+I am a Data Scientist / ML Researcher from Greece 🇬🇷 living in Switzerland 🇨🇭.
+
+I'm currently working for [**Pollfish**](https://www.pollfish.com) building end-to-end machine learning and data services.
 
 - 🌱 I'm currently fascinated about **Rust**.
 
