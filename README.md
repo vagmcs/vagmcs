@@ -4,13 +4,9 @@
 
 I am a Data Scientist / ML Researcher from Greece 🇬🇷 living in Switzerland 🇨🇭.
 
-I'm currently working for [**Pollfish**](https://www.pollfish.com) building end-to-end machine learning and data services.
-
 - 🌱 I'm currently fascinated about **Rust**.
 
-
 - 💬 Ask me about **Python**, **Scala**, and **Machine Learning**.
-
 
 - 🧩 Apart from coding and math, I love cooking 🍲 and video games 🎮.
 
