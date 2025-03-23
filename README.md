@@ -1,15 +1,9 @@
-## Hey 👋🏻
+<img src="https://github.com/user-attachments/assets/efaa24f5-3e88-49a0-9410-5636f40a9157" width="90"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vagmcs&label=Visitors&color=000000&labelColor=000000&style=flat-square)
 
-I'm an AI researcher from Greece, currently based in Switzerland.
+Dedicated learner, looking to build interesting project and craft useful, awesome tools.
 
-- 🦀 Learning *Rust*.
+- 📚 Rust, Reinforcement Learning, Neuro-Symbolic AI.
 
-- 📚 Exploring *Reinforcement Learning*, *Transformers* and *Neural-Symbolic AI*.
-
-- 💬 Feel free to ask me about *Python*, *Scala*, *AI* and *Machine Learning* - I'm always happy discuss these topics.
-
-- 🎨 When I'm not coding, I enjoy cooking 🍲, playing board games 🎲, or video games 🕹️.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord&no-bg=true&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+- Programming 🎨, cooking 🍲, board games 🎲, video games 🕹️.
