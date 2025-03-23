@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vagmcs&label=Visitors&color=000000&labelColor=000000&style=flat-square)
 
-Dedicated learner, looking to build interesting project and craft useful, awesome tools.
+Dedicated learner, looking to build interesting projects and craft useful tools.
 
 - 📚 Rust, Reinforcement Learning, Neuro-Symbolic AI.
 
